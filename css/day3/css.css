@@ -1,0 +1,98 @@
+header{
+    background-color: #4e331e;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+    text-decoration: underline;
+    padding: 50px 50px;
+    margin: 20px;
+}
+body{
+    background-color: rgb(244, 231, 216);
+
+    
+}
+.container{
+    display: flex;
+   margin: 50px 40px;
+   flex-wrap: wrap;
+   row-gap: 3px;
+   column-gap: 5px;
+   position: relative;
+}
+
+img{
+    width: 70%;
+    height: 50%;
+    position: relative;
+    left: 20px;
+    top: 25px;
+    
+}
+h2{
+    text-align: center;
+    text-decoration :underline;
+    text-transform: capitalize;
+    position: relative;
+    top: 25px;
+
+   
+}
+p{
+
+    text-align: center;
+    position: relative;
+    top: 50px;
+    
+    
+}   
+
+.box{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    
+    
+}
+.box1{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    
+}
+.box2{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    
+}
+.box3{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    
+}
+.box4{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+   
+}
+.box5{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+}   
+
+footer{
+    background-color: #4e331e;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: larger;
+    font-weight: bolder;
+    color: white;
+    padding: 50px 50px;
+    margin: 20px;
+}
